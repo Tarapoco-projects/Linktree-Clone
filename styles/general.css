@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(36, 50, 59);
+  font-family: Arial;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.main-menu {
+  position: fixed;
+  bottom: 0;
+  Top: 43px;
+  width: 580px;
+  background-image: linear-gradient(to bottom, rgb(159, 120, 223), rgb(107, 179, 206));
+  border-radius: 25px 25px 0 0;
+}
