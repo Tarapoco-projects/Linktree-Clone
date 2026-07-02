@@ -41,6 +41,11 @@
   height: 28px;
 }
 
+.todo-list-icon {
+  height: 35px;
+  width: 35px;
+}
+
 .link-button-text {
   display: inline;
   margin-left: -60px;
@@ -60,9 +65,9 @@
 
 .notification {
   position: absolute;
-  margin-top: -10px;
+  margin-top: -7px;
   margin-bottom: 0;
-  margin-left: 470px;
+  margin-left: 460px;
   color: black;
   background-color: rgb(255, 245, 217);
   padding: 3px 5px;
